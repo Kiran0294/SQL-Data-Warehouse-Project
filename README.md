@@ -63,8 +63,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [docs/requirements.md](docs/requirements.md).
-
 ## 🌟 About Me
 
 Hi, I’m **Kiran Pawar** — an IT professional with a strong passion for analytics. I am working as a Power BI Developer and Data Modeller, where I design and build insightful dashboards, create robust data models, and transform raw data into meaningful business intelligence. This portfolio showcases projects I’ve developed to highlight my skills in data visualization, modeling, and analytics.
